@@ -1,16 +1,19 @@
-## Hi there 👋
+#About me
 
-<!--
-**ssu-su/ssu-su** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##Some serious
+- 🔭 I’m currently studying at Sun Yat-sen Unieversity.
+- 🌱 I’m currently learning JAVA and Python.
+- 🥸 I have studied C and C++.
+- 🌱 I’m currently learning AI, OS, SE and S&S.
+- 🥸 I have studied DS, CO, Digital Electronics, LA, DM and Probablolity Theory.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Some fun
+- 👯 I like listening to ZHOU SHEN.
+
+##Some curious
+- 💬 Ask me about blablabla(idk🫠
+- 📫 How to reach me: 3190531735@qq.com
+
+##NICE TO MEET YOU!
+
